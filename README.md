@@ -1,4 +1,4 @@
 ## API Notebooks
 
-Space where to find jupyter notebooks that show example of what can be done with the UP42 API using curl commands.
-Some example show command line scripts, while others show examples of using request bodies in python.
+Space for jupyter notebooks that show examples of using the UP42 API.
+Some examples use curl requests in command line while others use request bodies in python.
